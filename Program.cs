@@ -6,30 +6,20 @@ namespace CalculaRetangulo
     {
         static void Main(string[] args)
         {
+            Retangulo ret = new Retangulo();
             Console.WriteLine("Digite a altura do retângulo.");
-            double altura = double.Parse(Console.ReadLine());
+            ret.Altura = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite a largura do retângulo");
-            double largura = double.Parse(Console.ReadLine());
+            ret.Largura = double.Parse(Console.ReadLine());
 
-            double area = CalculaArea(altura, largura);
-            double diagonal = DiagonalRetangulo(altura, largura);
-            double perimetro = CalculaPerimetro(altura, largura);
+            double area = ret.CalculaArea();
+            double perimetro = ret.CalculaPerimetro();
+            double diagonal = ret.DiagonalRetangulo();
 
             Console.WriteLine($" A área do retângulo é de: {area}");
             Console.WriteLine($"O perímetro do retângulo é de: {perimetro}");
-        }
-        public static double CalculaArea( double altura, double largura )
-        {
-            return altura * largura;
-        }
-        public static double DiagonalRetangulo( double altura, double largura )
-        {
-            return Math.Sqrt(Math.Pow(altura, 2) + Math.Pow(largura, 2));
-        }
-        public static double CalculaPerimetro( double altura, double largura )
-        {
-            return Math.Sqrt(Math.Pow(altura, 2) + Math.Pow(-largura, 2));
+            Console.WriteLine($"A diagonal do retângulo é: {diagonal}");
         }
     }
 }
