@@ -1,0 +1,14 @@
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\obj\Debug\netcoreapp3.1\ProgramaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\obj\Debug\netcoreapp3.1\ProgramaRetangulo.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\obj\Debug\netcoreapp3.1\ProgramaRetangulo.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\obj\Debug\netcoreapp3.1\ProgramaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\obj\Debug\netcoreapp3.1\ProgramaRetangulo.sourcelink.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\bin\Debug\netcoreapp3.1\ProgramaRetangulo.exe
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\bin\Debug\netcoreapp3.1\ProgramaRetangulo.deps.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\bin\Debug\netcoreapp3.1\ProgramaRetangulo.runtimeconfig.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\bin\Debug\netcoreapp3.1\ProgramaRetangulo.runtimeconfig.dev.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\bin\Debug\netcoreapp3.1\ProgramaRetangulo.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\bin\Debug\netcoreapp3.1\ProgramaRetangulo.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\obj\Debug\netcoreapp3.1\ProgramaRetangulo.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\obj\Debug\netcoreapp3.1\ProgramaRetangulo.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\ProgramaRetangulo\ProgramaRetangulo\obj\Debug\netcoreapp3.1\ProgramaRetangulo.genruntimeconfig.cache
