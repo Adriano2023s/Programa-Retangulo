@@ -6,11 +6,15 @@ namespace ProgramaRetangulo
     {
         static void Main(string[] args)
         {
-            ProgramaRetangulo pr = new ProgramaRetangulo(3, 8);
+            Retangulo r = new Retangulo();
 
-            Console.WriteLine($"A área do retângulo é de: {pr.CalculaArea()}");
-            Console.WriteLine($"O perímetro do retângulo é de: {pr.CalculaPerimetro()}");
-            Console.WriteLine($"A diagonal do retãngulo é de: {pr.CalculaDiagonal()}");
+            Console.WriteLine("Digite a autura, e largura do retângulo \n");
+            r.Altura = double.Parse(Console.ReadLine());
+            r.Largura = double.Parse(Console.ReadLine());
+
+            Console.WriteLine($"A área do retãngulo é de: {r.CalculaArea()}");
+            Console.WriteLine($"O perímetro do retângulo é de: {r.CalculaPerimetro()}");
+            Console.WriteLine($"A diagonal do retângulo é de: {r.CalculaDiagonal()}");
         }
     }
 }
