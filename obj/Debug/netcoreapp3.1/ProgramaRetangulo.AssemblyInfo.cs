@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramaRetangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e289b19d5caf16b7335718db7e0289aff770bebc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38709b869f3518cf23a66d8677fb817bb1260818")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramaRetangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramaRetangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

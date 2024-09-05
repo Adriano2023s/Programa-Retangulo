@@ -4,32 +4,8 @@ namespace ProgramaRetangulo
 {
     internal class Retangulo
     {
-        private double _Altura;
-        private double _Largura;
-
-        public double Altura
-        {
-            get
-            {
-                return _Altura;
-            }
-            set
-            {
-                _Altura = value;
-            }
-        }
-
-        public double Largura
-        {
-            get
-            {
-                return _Largura;
-            }
-            set
-            {
-                _Largura = value;
-            }
-        }
+        public double Altura { get; set; }
+        public double Largura { get; set; }
 
 public Retangulo()
         {
